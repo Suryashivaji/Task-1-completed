@@ -1,0 +1,17 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+  HTTp1.1:-
+
+              => HTTP1.1 have the capacity of loads resourse one after the other.
+              => So, if one resourse is blocked then all resourse cannot be load.
+              => HTTP1.1 Server cannot push the contant to the client device.before client request.
+
+
+
+ HTTP2:-                  
+    
+ 
+             => HTTP2 have the capacity to send multiple stream of data.
+             => So, no one resource blocks any  other resourse.
+             => HTTP2 solve this problem by allowimh the Server to push contant to a client before the clientask of it.
+             
